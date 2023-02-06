@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eckoger
 - 👀 I’m interested in Blockchain technology.
-- 🌱 I’m currently learning Python and Data Science
+- 🌱 I’m currently learning rust language.
 - 💞️ I’m looking to collaborate on blokchain-spesific projects :)
 - 📫 How to reach me on Telegram: eckoger :)
 
