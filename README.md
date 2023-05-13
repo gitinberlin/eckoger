@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eckoger
+- 👋 Hi, I’m Candace
 - 👀 I’m interested in Blockchain technology.
 - 🌱 I’m currently learning rust language.
 - 💞️ I’m looking to collaborate on blokchain-spesific projects :)
