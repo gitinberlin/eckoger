@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Candace
+- 👋 Hi, I’m Git
 - 👀 I’m interested in Blockchain technology.
-- 🌱 I’m currently learning rust language.
 - 💞️ I’m looking to collaborate on blokchain-spesific projects :)
 - 📫 How to reach me on Telegram: eckoger :)
 
@@ -8,8 +7,6 @@
 <h3 align="center">A passionate rust developer and blockchain enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/eckoger" target="blank"><img src="https://img.shields.io/twitter/follow/eckoger?logo=twitter&style=for-the-badge" alt="eckoger" /></a> </p>
-
-- 🌱 I’m currently learning **Rust for the development on Polkadot and Solana ecosystem.**
 
 - 📫 How to reach me **on TG: eckoger**
 
